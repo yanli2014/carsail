@@ -1,0 +1,3973 @@
+{
+    "_title": "2000-2014年，各省家用车数量统计",
+    "datas": [
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2000,
+            "province": "天津",
+            "rate": "24.52%",
+            "total": 6.3
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2000,
+            "province": "北京",
+            "rate": "24.33%",
+            "total": 7.27
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2000,
+            "province": "上海",
+            "rate": "22.64%",
+            "total": 5.3
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2000,
+            "province": "青海",
+            "rate": "18.61%",
+            "total": 3.6733
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2000,
+            "province": "山东",
+            "rate": "18.37%",
+            "total": 50.9
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2000,
+            "province": "宁夏",
+            "rate": "17.05%",
+            "total": 5.87
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2000,
+            "province": "吉林",
+            "rate": "14.47%",
+            "total": 15.5
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2000,
+            "province": "福建",
+            "rate": "14.19%",
+            "total": 25.5
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2000,
+            "province": "贵州",
+            "rate": "13.87%",
+            "total": 24.78
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2000,
+            "province": "浙江",
+            "rate": "13.38%",
+            "total": 31.3
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2000,
+            "province": "陕西",
+            "rate": "13.21%",
+            "total": 36.65
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2000,
+            "province": "新疆",
+            "rate": "12.92%",
+            "total": 15.87
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2000,
+            "province": "云南",
+            "rate": "12.79%",
+            "total": 23.6
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2000,
+            "province": "海南",
+            "rate": "11.42%",
+            "total": 5.6
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2000,
+            "province": "内蒙古",
+            "rate": "11.21%",
+            "total": 19.3
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2000,
+            "province": "甘肃",
+            "rate": "10.46%",
+            "total": 28.3
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2000,
+            "province": "安徽",
+            "rate": "10.12%",
+            "total": 51.1
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2000,
+            "province": "江苏",
+            "rate": "10.00%",
+            "total": 45.1
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2000,
+            "province": "湖南",
+            "rate": "9.59%",
+            "total": 37.3
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2000,
+            "province": "黑龙江",
+            "rate": "9.58%",
+            "total": 20.8
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2000,
+            "province": "重庆",
+            "rate": "9.34%",
+            "total": 23.5
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2000,
+            "province": "江西",
+            "rate": "9.07%",
+            "total": 27.43
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2000,
+            "province": "河北",
+            "rate": "9.03%",
+            "total": 44.98
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2000,
+            "province": "湖北",
+            "rate": "8.20%",
+            "total": 43.8
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2000,
+            "province": "广西",
+            "rate": "7.72%",
+            "total": 29.8
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2000,
+            "province": "河南",
+            "rate": "6.79%",
+            "total": 71.63
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2000,
+            "province": "广东",
+            "rate": "5.93%",
+            "total": 72.7
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2000,
+            "province": "山西",
+            "rate": "5.89%",
+            "total": 35.8
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2000,
+            "province": "辽宁",
+            "rate": "5.74%",
+            "total": 25.4
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2000,
+            "province": "四川",
+            "rate": "5.28%",
+            "total": 54
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2000,
+            "province": "西藏",
+            "rate": "4.78%",
+            "total": 1.89
+        },
+       {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2001,
+            "province": "天津",
+            "rate": "24.52%",
+            "total": 6.3
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2001,
+            "province": "北京",
+            "rate": "24.33%",
+            "total": 7.27
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2001,
+            "province": "上海",
+            "rate": "22.64%",
+            "total": 5.3
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2001,
+            "province": "青海",
+            "rate": "18.61%",
+            "total": 3.6733
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2001,
+            "province": "山东",
+            "rate": "18.37%",
+            "total": 50.9
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2001,
+            "province": "宁夏",
+            "rate": "17.05%",
+            "total": 5.87
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2001,
+            "province": "吉林",
+            "rate": "14.47%",
+            "total": 15.5
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2001,
+            "province": "福建",
+            "rate": "14.19%",
+            "total": 25.5
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2001,
+            "province": "贵州",
+            "rate": "13.87%",
+            "total": 24.78
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2001,
+            "province": "浙江",
+            "rate": "13.38%",
+            "total": 31.3
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2001,
+            "province": "陕西",
+            "rate": "13.21%",
+            "total": 36.65
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2001,
+            "province": "新疆",
+            "rate": "12.92%",
+            "total": 15.87
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2001,
+            "province": "云南",
+            "rate": "12.79%",
+            "total": 23.6
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2001,
+            "province": "海南",
+            "rate": "11.42%",
+            "total": 5.6
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2001,
+            "province": "内蒙古",
+            "rate": "11.21%",
+            "total": 19.3
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2001,
+            "province": "甘肃",
+            "rate": "10.46%",
+            "total": 28.3
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2001,
+            "province": "安徽",
+            "rate": "10.12%",
+            "total": 51.1
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2001,
+            "province": "江苏",
+            "rate": "10.00%",
+            "total": 45.1
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2001,
+            "province": "湖南",
+            "rate": "9.59%",
+            "total": 37.3
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2001,
+            "province": "黑龙江",
+            "rate": "9.58%",
+            "total": 20.8
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2001,
+            "province": "重庆",
+            "rate": "9.34%",
+            "total": 23.5
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2001,
+            "province": "江西",
+            "rate": "9.07%",
+            "total": 27.43
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2001,
+            "province": "河北",
+            "rate": "9.03%",
+            "total": 44.98
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2001,
+            "province": "湖北",
+            "rate": "8.20%",
+            "total": 43.8
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2001,
+            "province": "广西",
+            "rate": "7.72%",
+            "total": 29.8
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2001,
+            "province": "河南",
+            "rate": "6.79%",
+            "total": 71.63
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2001,
+            "province": "广东",
+            "rate": "5.93%",
+            "total": 72.7
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2001,
+            "province": "山西",
+            "rate": "5.89%",
+            "total": 35.8
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2001,
+            "province": "辽宁",
+            "rate": "5.74%",
+            "total": 25.4
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2001,
+            "province": "四川",
+            "rate": "5.28%",
+            "total": 54
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2001,
+            "province": "西藏",
+            "rate": "4.78%",
+            "total": 1.89
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2002,
+            "province": "天津",
+            "rate": "24.52%",
+            "total": 6.3
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2002,
+            "province": "北京",
+            "rate": "24.33%",
+            "total": 7.27
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2002,
+            "province": "上海",
+            "rate": "22.64%",
+            "total": 5.3
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2002,
+            "province": "青海",
+            "rate": "18.61%",
+            "total": 3.6733
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2002,
+            "province": "山东",
+            "rate": "18.37%",
+            "total": 50.9
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2002,
+            "province": "宁夏",
+            "rate": "17.05%",
+            "total": 5.87
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2002,
+            "province": "吉林",
+            "rate": "14.47%",
+            "total": 15.5
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2002,
+            "province": "福建",
+            "rate": "14.19%",
+            "total": 25.5
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2002,
+            "province": "贵州",
+            "rate": "13.87%",
+            "total": 24.78
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2002,
+            "province": "浙江",
+            "rate": "13.38%",
+            "total": 31.3
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2002,
+            "province": "陕西",
+            "rate": "13.21%",
+            "total": 36.65
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2002,
+            "province": "新疆",
+            "rate": "12.92%",
+            "total": 15.87
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2002,
+            "province": "云南",
+            "rate": "12.79%",
+            "total": 23.6
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2002,
+            "province": "海南",
+            "rate": "11.42%",
+            "total": 5.6
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2002,
+            "province": "内蒙古",
+            "rate": "11.21%",
+            "total": 19.3
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2002,
+            "province": "甘肃",
+            "rate": "10.46%",
+            "total": 28.3
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2002,
+            "province": "安徽",
+            "rate": "10.12%",
+            "total": 51.1
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2002,
+            "province": "江苏",
+            "rate": "10.00%",
+            "total": 45.1
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2002,
+            "province": "湖南",
+            "rate": "9.59%",
+            "total": 37.3
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2002,
+            "province": "黑龙江",
+            "rate": "9.58%",
+            "total": 20.8
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2002,
+            "province": "重庆",
+            "rate": "9.34%",
+            "total": 23.5
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2002,
+            "province": "江西",
+            "rate": "9.07%",
+            "total": 27.43
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2002,
+            "province": "河北",
+            "rate": "9.03%",
+            "total": 44.98
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2002,
+            "province": "湖北",
+            "rate": "8.20%",
+            "total": 43.8
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2002,
+            "province": "广西",
+            "rate": "7.72%",
+            "total": 29.8
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2002,
+            "province": "河南",
+            "rate": "6.79%",
+            "total": 71.63
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2002,
+            "province": "广东",
+            "rate": "5.93%",
+            "total": 72.7
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2002,
+            "province": "山西",
+            "rate": "5.89%",
+            "total": 35.8
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2002,
+            "province": "辽宁",
+            "rate": "5.74%",
+            "total": 25.4
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2002,
+            "province": "四川",
+            "rate": "5.28%",
+            "total": 54
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2002,
+            "province": "西藏",
+            "rate": "4.78%",
+            "total": 1.89
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2003,
+            "province": "天津",
+            "rate": "24.52%",
+            "total": 6.3
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2003,
+            "province": "北京",
+            "rate": "24.33%",
+            "total": 7.27
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2003,
+            "province": "上海",
+            "rate": "22.64%",
+            "total": 5.3
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2003,
+            "province": "青海",
+            "rate": "18.61%",
+            "total": 3.6733
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2003,
+            "province": "山东",
+            "rate": "18.37%",
+            "total": 50.9
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2003,
+            "province": "宁夏",
+            "rate": "17.05%",
+            "total": 5.87
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2003,
+            "province": "吉林",
+            "rate": "14.47%",
+            "total": 15.5
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2003,
+            "province": "福建",
+            "rate": "14.19%",
+            "total": 25.5
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2003,
+            "province": "贵州",
+            "rate": "13.87%",
+            "total": 24.78
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2003,
+            "province": "浙江",
+            "rate": "13.38%",
+            "total": 31.3
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2003,
+            "province": "陕西",
+            "rate": "13.21%",
+            "total": 36.65
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2003,
+            "province": "新疆",
+            "rate": "12.92%",
+            "total": 15.87
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2003,
+            "province": "云南",
+            "rate": "12.79%",
+            "total": 23.6
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2003,
+            "province": "海南",
+            "rate": "11.42%",
+            "total": 5.6
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2003,
+            "province": "内蒙古",
+            "rate": "11.21%",
+            "total": 19.3
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2003,
+            "province": "甘肃",
+            "rate": "10.46%",
+            "total": 28.3
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2003,
+            "province": "安徽",
+            "rate": "10.12%",
+            "total": 51.1
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2003,
+            "province": "江苏",
+            "rate": "10.00%",
+            "total": 45.1
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2003,
+            "province": "湖南",
+            "rate": "9.59%",
+            "total": 37.3
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2003,
+            "province": "黑龙江",
+            "rate": "9.58%",
+            "total": 20.8
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2003,
+            "province": "重庆",
+            "rate": "9.34%",
+            "total": 23.5
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2003,
+            "province": "江西",
+            "rate": "9.07%",
+            "total": 27.43
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2003,
+            "province": "河北",
+            "rate": "9.03%",
+            "total": 44.98
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2003,
+            "province": "湖北",
+            "rate": "8.20%",
+            "total": 43.8
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2003,
+            "province": "广西",
+            "rate": "7.72%",
+            "total": 29.8
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2003,
+            "province": "河南",
+            "rate": "6.79%",
+            "total": 71.63
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2003,
+            "province": "广东",
+            "rate": "5.93%",
+            "total": 72.7
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2003,
+            "province": "山西",
+            "rate": "5.89%",
+            "total": 35.8
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2003,
+            "province": "辽宁",
+            "rate": "5.74%",
+            "total": 25.4
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2003,
+            "province": "四川",
+            "rate": "5.28%",
+            "total": 54
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2003,
+            "province": "西藏",
+            "rate": "4.78%",
+            "total": 1.89
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2004,
+            "province": "天津",
+            "rate": "24.52%",
+            "total": 6.3
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2004,
+            "province": "北京",
+            "rate": "24.33%",
+            "total": 7.27
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2004,
+            "province": "上海",
+            "rate": "22.64%",
+            "total": 5.3
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2004,
+            "province": "青海",
+            "rate": "18.61%",
+            "total": 3.6733
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2004,
+            "province": "山东",
+            "rate": "18.37%",
+            "total": 50.9
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2004,
+            "province": "宁夏",
+            "rate": "17.05%",
+            "total": 5.87
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2004,
+            "province": "吉林",
+            "rate": "14.47%",
+            "total": 15.5
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2004,
+            "province": "福建",
+            "rate": "14.19%",
+            "total": 25.5
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2004,
+            "province": "贵州",
+            "rate": "13.87%",
+            "total": 24.78
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2004,
+            "province": "浙江",
+            "rate": "13.38%",
+            "total": 31.3
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2004,
+            "province": "陕西",
+            "rate": "13.21%",
+            "total": 36.65
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2004,
+            "province": "新疆",
+            "rate": "12.92%",
+            "total": 15.87
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2004,
+            "province": "云南",
+            "rate": "12.79%",
+            "total": 23.6
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2004,
+            "province": "海南",
+            "rate": "11.42%",
+            "total": 5.6
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2004,
+            "province": "内蒙古",
+            "rate": "11.21%",
+            "total": 19.3
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2004,
+            "province": "甘肃",
+            "rate": "10.46%",
+            "total": 28.3
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2004,
+            "province": "安徽",
+            "rate": "10.12%",
+            "total": 51.1
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2004,
+            "province": "江苏",
+            "rate": "10.00%",
+            "total": 45.1
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2004,
+            "province": "湖南",
+            "rate": "9.59%",
+            "total": 37.3
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2004,
+            "province": "黑龙江",
+            "rate": "9.58%",
+            "total": 20.8
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2004,
+            "province": "重庆",
+            "rate": "9.34%",
+            "total": 23.5
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2004,
+            "province": "江西",
+            "rate": "9.07%",
+            "total": 27.43
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2004,
+            "province": "河北",
+            "rate": "9.03%",
+            "total": 44.98
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2004,
+            "province": "湖北",
+            "rate": "8.20%",
+            "total": 43.8
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2004,
+            "province": "广西",
+            "rate": "7.72%",
+            "total": 29.8
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2004,
+            "province": "河南",
+            "rate": "6.79%",
+            "total": 71.63
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2004,
+            "province": "广东",
+            "rate": "5.93%",
+            "total": 72.7
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2004,
+            "province": "山西",
+            "rate": "5.89%",
+            "total": 35.8
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2004,
+            "province": "辽宁",
+            "rate": "5.74%",
+            "total": 25.4
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2004,
+            "province": "四川",
+            "rate": "5.28%",
+            "total": 54
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2004,
+            "province": "西藏",
+            "rate": "4.78%",
+            "total": 1.89
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2005,
+            "province": "天津",
+            "rate": "24.52%",
+            "total": 6.3
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2005,
+            "province": "北京",
+            "rate": "24.33%",
+            "total": 7.27
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2005,
+            "province": "上海",
+            "rate": "22.64%",
+            "total": 5.3
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2005,
+            "province": "青海",
+            "rate": "18.61%",
+            "total": 3.6733
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2005,
+            "province": "山东",
+            "rate": "18.37%",
+            "total": 50.9
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2005,
+            "province": "宁夏",
+            "rate": "17.05%",
+            "total": 5.87
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2005,
+            "province": "吉林",
+            "rate": "14.47%",
+            "total": 15.5
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2005,
+            "province": "福建",
+            "rate": "14.19%",
+            "total": 25.5
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2005,
+            "province": "贵州",
+            "rate": "13.87%",
+            "total": 24.78
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2005,
+            "province": "浙江",
+            "rate": "13.38%",
+            "total": 31.3
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2005,
+            "province": "陕西",
+            "rate": "13.21%",
+            "total": 36.65
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2005,
+            "province": "新疆",
+            "rate": "12.92%",
+            "total": 15.87
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2005,
+            "province": "云南",
+            "rate": "12.79%",
+            "total": 23.6
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2005,
+            "province": "海南",
+            "rate": "11.42%",
+            "total": 5.6
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2005,
+            "province": "内蒙古",
+            "rate": "11.21%",
+            "total": 19.3
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2005,
+            "province": "甘肃",
+            "rate": "10.46%",
+            "total": 28.3
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2005,
+            "province": "安徽",
+            "rate": "10.12%",
+            "total": 51.1
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2005,
+            "province": "江苏",
+            "rate": "10.00%",
+            "total": 45.1
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2005,
+            "province": "湖南",
+            "rate": "9.59%",
+            "total": 37.3
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2005,
+            "province": "黑龙江",
+            "rate": "9.58%",
+            "total": 20.8
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2005,
+            "province": "重庆",
+            "rate": "9.34%",
+            "total": 23.5
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2005,
+            "province": "江西",
+            "rate": "9.07%",
+            "total": 27.43
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2005,
+            "province": "河北",
+            "rate": "9.03%",
+            "total": 44.98
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2005,
+            "province": "湖北",
+            "rate": "8.20%",
+            "total": 43.8
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2005,
+            "province": "广西",
+            "rate": "7.72%",
+            "total": 29.8
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2005,
+            "province": "河南",
+            "rate": "6.79%",
+            "total": 71.63
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2005,
+            "province": "广东",
+            "rate": "5.93%",
+            "total": 72.7
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2005,
+            "province": "山西",
+            "rate": "5.89%",
+            "total": 35.8
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2005,
+            "province": "辽宁",
+            "rate": "5.74%",
+            "total": 25.4
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2005,
+            "province": "四川",
+            "rate": "5.28%",
+            "total": 54
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2005,
+            "province": "西藏",
+            "rate": "4.78%",
+            "total": 1.89
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2006,
+            "province": "天津",
+            "rate": "24.52%",
+            "total": 6.3
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2006,
+            "province": "北京",
+            "rate": "24.33%",
+            "total": 7.27
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2006,
+            "province": "上海",
+            "rate": "22.64%",
+            "total": 5.3
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2006,
+            "province": "青海",
+            "rate": "18.61%",
+            "total": 3.6733
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2006,
+            "province": "山东",
+            "rate": "18.37%",
+            "total": 50.9
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2006,
+            "province": "宁夏",
+            "rate": "17.05%",
+            "total": 5.87
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2006,
+            "province": "吉林",
+            "rate": "14.47%",
+            "total": 15.5
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2006,
+            "province": "福建",
+            "rate": "14.19%",
+            "total": 25.5
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2006,
+            "province": "贵州",
+            "rate": "13.87%",
+            "total": 24.78
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2006,
+            "province": "浙江",
+            "rate": "13.38%",
+            "total": 31.3
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2006,
+            "province": "陕西",
+            "rate": "13.21%",
+            "total": 36.65
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2006,
+            "province": "新疆",
+            "rate": "12.92%",
+            "total": 15.87
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2006,
+            "province": "云南",
+            "rate": "12.79%",
+            "total": 23.6
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2006,
+            "province": "海南",
+            "rate": "11.42%",
+            "total": 5.6
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2006,
+            "province": "内蒙古",
+            "rate": "11.21%",
+            "total": 19.3
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2006,
+            "province": "甘肃",
+            "rate": "10.46%",
+            "total": 28.3
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2006,
+            "province": "安徽",
+            "rate": "10.12%",
+            "total": 51.1
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2006,
+            "province": "江苏",
+            "rate": "10.00%",
+            "total": 45.1
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2006,
+            "province": "湖南",
+            "rate": "9.59%",
+            "total": 37.3
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2006,
+            "province": "黑龙江",
+            "rate": "9.58%",
+            "total": 20.8
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2006,
+            "province": "重庆",
+            "rate": "9.34%",
+            "total": 23.5
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2006,
+            "province": "江西",
+            "rate": "9.07%",
+            "total": 27.43
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2006,
+            "province": "河北",
+            "rate": "9.03%",
+            "total": 44.98
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2006,
+            "province": "湖北",
+            "rate": "8.20%",
+            "total": 43.8
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2006,
+            "province": "广西",
+            "rate": "7.72%",
+            "total": 29.8
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2006,
+            "province": "河南",
+            "rate": "6.79%",
+            "total": 71.63
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2006,
+            "province": "广东",
+            "rate": "5.93%",
+            "total": 72.7
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2006,
+            "province": "山西",
+            "rate": "5.89%",
+            "total": 35.8
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2006,
+            "province": "辽宁",
+            "rate": "5.74%",
+            "total": 25.4
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2006,
+            "province": "四川",
+            "rate": "5.28%",
+            "total": 54
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2006,
+            "province": "西藏",
+            "rate": "4.78%",
+            "total": 1.89
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2006,
+            "province": "天津",
+            "rate": "24.52%",
+            "total": 6.3
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2006,
+            "province": "北京",
+            "rate": "24.33%",
+            "total": 7.27
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2006,
+            "province": "上海",
+            "rate": "22.64%",
+            "total": 5.3
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2006,
+            "province": "青海",
+            "rate": "18.61%",
+            "total": 3.6733
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2006,
+            "province": "山东",
+            "rate": "18.37%",
+            "total": 50.9
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2006,
+            "province": "宁夏",
+            "rate": "17.05%",
+            "total": 5.87
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2006,
+            "province": "吉林",
+            "rate": "14.47%",
+            "total": 15.5
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2006,
+            "province": "福建",
+            "rate": "14.19%",
+            "total": 25.5
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2006,
+            "province": "贵州",
+            "rate": "13.87%",
+            "total": 24.78
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2006,
+            "province": "浙江",
+            "rate": "13.38%",
+            "total": 31.3
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2006,
+            "province": "陕西",
+            "rate": "13.21%",
+            "total": 36.65
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2006,
+            "province": "新疆",
+            "rate": "12.92%",
+            "total": 15.87
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2006,
+            "province": "云南",
+            "rate": "12.79%",
+            "total": 23.6
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2006,
+            "province": "海南",
+            "rate": "11.42%",
+            "total": 5.6
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2006,
+            "province": "内蒙古",
+            "rate": "11.21%",
+            "total": 19.3
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2006,
+            "province": "甘肃",
+            "rate": "10.46%",
+            "total": 28.3
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2006,
+            "province": "安徽",
+            "rate": "10.12%",
+            "total": 51.1
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2006,
+            "province": "江苏",
+            "rate": "10.00%",
+            "total": 45.1
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2006,
+            "province": "湖南",
+            "rate": "9.59%",
+            "total": 37.3
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2006,
+            "province": "黑龙江",
+            "rate": "9.58%",
+            "total": 20.8
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2006,
+            "province": "重庆",
+            "rate": "9.34%",
+            "total": 23.5
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2006,
+            "province": "江西",
+            "rate": "9.07%",
+            "total": 27.43
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2006,
+            "province": "河北",
+            "rate": "9.03%",
+            "total": 44.98
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2006,
+            "province": "湖北",
+            "rate": "8.20%",
+            "total": 43.8
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2006,
+            "province": "广西",
+            "rate": "7.72%",
+            "total": 29.8
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2006,
+            "province": "河南",
+            "rate": "6.79%",
+            "total": 71.63
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2006,
+            "province": "广东",
+            "rate": "5.93%",
+            "total": 72.7
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2006,
+            "province": "山西",
+            "rate": "5.89%",
+            "total": 35.8
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2006,
+            "province": "辽宁",
+            "rate": "5.74%",
+            "total": 25.4
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2006,
+            "province": "四川",
+            "rate": "5.28%",
+            "total": 54
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2006,
+            "province": "西藏",
+            "rate": "4.78%",
+            "total": 1.89
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2007,
+            "province": "天津",
+            "rate": "24.52%",
+            "total": 6.3
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2007,
+            "province": "北京",
+            "rate": "24.33%",
+            "total": 7.27
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2007,
+            "province": "上海",
+            "rate": "22.64%",
+            "total": 5.3
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2007,
+            "province": "青海",
+            "rate": "18.61%",
+            "total": 3.6733
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2007,
+            "province": "山东",
+            "rate": "18.37%",
+            "total": 50.9
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2007,
+            "province": "宁夏",
+            "rate": "17.05%",
+            "total": 5.87
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2007,
+            "province": "吉林",
+            "rate": "14.47%",
+            "total": 15.5
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2007,
+            "province": "福建",
+            "rate": "14.19%",
+            "total": 25.5
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2007,
+            "province": "贵州",
+            "rate": "13.87%",
+            "total": 24.78
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2007,
+            "province": "浙江",
+            "rate": "13.38%",
+            "total": 31.3
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2007,
+            "province": "陕西",
+            "rate": "13.21%",
+            "total": 36.65
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2007,
+            "province": "新疆",
+            "rate": "12.92%",
+            "total": 15.87
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2007,
+            "province": "云南",
+            "rate": "12.79%",
+            "total": 23.6
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2007,
+            "province": "海南",
+            "rate": "11.42%",
+            "total": 5.6
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2007,
+            "province": "内蒙古",
+            "rate": "11.21%",
+            "total": 19.3
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2007,
+            "province": "甘肃",
+            "rate": "10.46%",
+            "total": 28.3
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2007,
+            "province": "安徽",
+            "rate": "10.12%",
+            "total": 51.1
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2007,
+            "province": "江苏",
+            "rate": "10.00%",
+            "total": 45.1
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2007,
+            "province": "湖南",
+            "rate": "9.59%",
+            "total": 37.3
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2007,
+            "province": "黑龙江",
+            "rate": "9.58%",
+            "total": 20.8
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2007,
+            "province": "重庆",
+            "rate": "9.34%",
+            "total": 23.5
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2007,
+            "province": "江西",
+            "rate": "9.07%",
+            "total": 27.43
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2007,
+            "province": "河北",
+            "rate": "9.03%",
+            "total": 44.98
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2007,
+            "province": "湖北",
+            "rate": "8.20%",
+            "total": 43.8
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2007,
+            "province": "广西",
+            "rate": "7.72%",
+            "total": 29.8
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2007,
+            "province": "河南",
+            "rate": "6.79%",
+            "total": 71.63
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2007,
+            "province": "广东",
+            "rate": "5.93%",
+            "total": 72.7
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2007,
+            "province": "山西",
+            "rate": "5.89%",
+            "total": 35.8
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2007,
+            "province": "辽宁",
+            "rate": "5.74%",
+            "total": 25.4
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2007,
+            "province": "四川",
+            "rate": "5.28%",
+            "total": 54
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2007,
+            "province": "西藏",
+            "rate": "4.78%",
+            "total": 1.89
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2008,
+            "province": "天津",
+            "rate": "24.52%",
+            "total": 6.3
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2008,
+            "province": "北京",
+            "rate": "24.33%",
+            "total": 7.27
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2008,
+            "province": "上海",
+            "rate": "22.64%",
+            "total": 5.3
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2008,
+            "province": "青海",
+            "rate": "18.61%",
+            "total": 3.6733
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2008,
+            "province": "山东",
+            "rate": "18.37%",
+            "total": 50.9
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2008,
+            "province": "宁夏",
+            "rate": "17.05%",
+            "total": 5.87
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2008,
+            "province": "吉林",
+            "rate": "14.47%",
+            "total": 15.5
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2008,
+            "province": "福建",
+            "rate": "14.19%",
+            "total": 25.5
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2008,
+            "province": "贵州",
+            "rate": "13.87%",
+            "total": 24.78
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2008,
+            "province": "浙江",
+            "rate": "13.38%",
+            "total": 31.3
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2008,
+            "province": "陕西",
+            "rate": "13.21%",
+            "total": 36.65
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2008,
+            "province": "新疆",
+            "rate": "12.92%",
+            "total": 15.87
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2008,
+            "province": "云南",
+            "rate": "12.79%",
+            "total": 23.6
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2008,
+            "province": "海南",
+            "rate": "11.42%",
+            "total": 5.6
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2008,
+            "province": "内蒙古",
+            "rate": "11.21%",
+            "total": 19.3
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2008,
+            "province": "甘肃",
+            "rate": "10.46%",
+            "total": 28.3
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2008,
+            "province": "安徽",
+            "rate": "10.12%",
+            "total": 51.1
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2008,
+            "province": "江苏",
+            "rate": "10.00%",
+            "total": 45.1
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2008,
+            "province": "湖南",
+            "rate": "9.59%",
+            "total": 37.3
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2008,
+            "province": "黑龙江",
+            "rate": "9.58%",
+            "total": 20.8
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2008,
+            "province": "重庆",
+            "rate": "9.34%",
+            "total": 23.5
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2008,
+            "province": "江西",
+            "rate": "9.07%",
+            "total": 27.43
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2008,
+            "province": "河北",
+            "rate": "9.03%",
+            "total": 44.98
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2008,
+            "province": "湖北",
+            "rate": "8.20%",
+            "total": 43.8
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2008,
+            "province": "广西",
+            "rate": "7.72%",
+            "total": 29.8
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2008,
+            "province": "河南",
+            "rate": "6.79%",
+            "total": 71.63
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2008,
+            "province": "广东",
+            "rate": "5.93%",
+            "total": 72.7
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2008,
+            "province": "山西",
+            "rate": "5.89%",
+            "total": 35.8
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2008,
+            "province": "辽宁",
+            "rate": "5.74%",
+            "total": 25.4
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2008,
+            "province": "四川",
+            "rate": "5.28%",
+            "total": 54
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2008,
+            "province": "西藏",
+            "rate": "4.78%",
+            "total": 1.89
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2009,
+            "province": "天津",
+            "rate": "24.52%",
+            "total": 6.3
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2009,
+            "province": "北京",
+            "rate": "24.33%",
+            "total": 7.27
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2009,
+            "province": "上海",
+            "rate": "22.64%",
+            "total": 5.3
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2009,
+            "province": "青海",
+            "rate": "18.61%",
+            "total": 3.6733
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2009,
+            "province": "山东",
+            "rate": "18.37%",
+            "total": 50.9
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2009,
+            "province": "宁夏",
+            "rate": "17.05%",
+            "total": 5.87
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2009,
+            "province": "吉林",
+            "rate": "14.47%",
+            "total": 15.5
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2009,
+            "province": "福建",
+            "rate": "14.19%",
+            "total": 25.5
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2009,
+            "province": "贵州",
+            "rate": "13.87%",
+            "total": 24.78
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2009,
+            "province": "浙江",
+            "rate": "13.38%",
+            "total": 31.3
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2009,
+            "province": "陕西",
+            "rate": "13.21%",
+            "total": 36.65
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2009,
+            "province": "新疆",
+            "rate": "12.92%",
+            "total": 15.87
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2009,
+            "province": "云南",
+            "rate": "12.79%",
+            "total": 23.6
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2009,
+            "province": "海南",
+            "rate": "11.42%",
+            "total": 5.6
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2009,
+            "province": "内蒙古",
+            "rate": "11.21%",
+            "total": 19.3
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2009,
+            "province": "甘肃",
+            "rate": "10.46%",
+            "total": 28.3
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2009,
+            "province": "安徽",
+            "rate": "10.12%",
+            "total": 51.1
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2009,
+            "province": "江苏",
+            "rate": "10.00%",
+            "total": 45.1
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2009,
+            "province": "湖南",
+            "rate": "9.59%",
+            "total": 37.3
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2009,
+            "province": "黑龙江",
+            "rate": "9.58%",
+            "total": 20.8
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2009,
+            "province": "重庆",
+            "rate": "9.34%",
+            "total": 23.5
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2009,
+            "province": "江西",
+            "rate": "9.07%",
+            "total": 27.43
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2009,
+            "province": "河北",
+            "rate": "9.03%",
+            "total": 44.98
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2009,
+            "province": "湖北",
+            "rate": "8.20%",
+            "total": 43.8
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2009,
+            "province": "广西",
+            "rate": "7.72%",
+            "total": 29.8
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2009,
+            "province": "河南",
+            "rate": "6.79%",
+            "total": 71.63
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2009,
+            "province": "广东",
+            "rate": "5.93%",
+            "total": 72.7
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2009,
+            "province": "山西",
+            "rate": "5.89%",
+            "total": 35.8
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2009,
+            "province": "辽宁",
+            "rate": "5.74%",
+            "total": 25.4
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2009,
+            "province": "四川",
+            "rate": "5.28%",
+            "total": 54
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2009,
+            "province": "西藏",
+            "rate": "4.78%",
+            "total": 1.89
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2010,
+            "province": "天津",
+            "rate": "24.52%",
+            "total": 6.3
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2010,
+            "province": "北京",
+            "rate": "24.33%",
+            "total": 7.27
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2010,
+            "province": "上海",
+            "rate": "22.64%",
+            "total": 5.3
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2010,
+            "province": "青海",
+            "rate": "18.61%",
+            "total": 3.6733
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2010,
+            "province": "山东",
+            "rate": "18.37%",
+            "total": 50.9
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2010,
+            "province": "宁夏",
+            "rate": "17.05%",
+            "total": 5.87
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2010,
+            "province": "吉林",
+            "rate": "14.47%",
+            "total": 15.5
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2010,
+            "province": "福建",
+            "rate": "14.19%",
+            "total": 25.5
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2010,
+            "province": "贵州",
+            "rate": "13.87%",
+            "total": 24.78
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2010,
+            "province": "浙江",
+            "rate": "13.38%",
+            "total": 31.3
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2010,
+            "province": "陕西",
+            "rate": "13.21%",
+            "total": 36.65
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2010,
+            "province": "新疆",
+            "rate": "12.92%",
+            "total": 15.87
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2010,
+            "province": "云南",
+            "rate": "12.79%",
+            "total": 23.6
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2010,
+            "province": "海南",
+            "rate": "11.42%",
+            "total": 5.6
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2010,
+            "province": "内蒙古",
+            "rate": "11.21%",
+            "total": 19.3
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2010,
+            "province": "甘肃",
+            "rate": "10.46%",
+            "total": 28.3
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2010,
+            "province": "安徽",
+            "rate": "10.12%",
+            "total": 51.1
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2010,
+            "province": "江苏",
+            "rate": "10.00%",
+            "total": 45.1
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2010,
+            "province": "湖南",
+            "rate": "9.59%",
+            "total": 37.3
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2010,
+            "province": "黑龙江",
+            "rate": "9.58%",
+            "total": 20.8
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2010,
+            "province": "重庆",
+            "rate": "9.34%",
+            "total": 23.5
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2010,
+            "province": "江西",
+            "rate": "9.07%",
+            "total": 27.43
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2010,
+            "province": "河北",
+            "rate": "9.03%",
+            "total": 44.98
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2010,
+            "province": "湖北",
+            "rate": "8.20%",
+            "total": 43.8
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2010,
+            "province": "广西",
+            "rate": "7.72%",
+            "total": 29.8
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2010,
+            "province": "河南",
+            "rate": "6.79%",
+            "total": 71.63
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2010,
+            "province": "广东",
+            "rate": "5.93%",
+            "total": 72.7
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2010,
+            "province": "山西",
+            "rate": "5.89%",
+            "total": 35.8
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2010,
+            "province": "辽宁",
+            "rate": "5.74%",
+            "total": 25.4
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2010,
+            "province": "四川",
+            "rate": "5.28%",
+            "total": 54
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2010,
+            "province": "西藏",
+            "rate": "4.78%",
+            "total": 1.89
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2011,
+            "province": "天津",
+            "rate": "24.52%",
+            "total": 6.3
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2011,
+            "province": "北京",
+            "rate": "24.33%",
+            "total": 7.27
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2011,
+            "province": "上海",
+            "rate": "22.64%",
+            "total": 5.3
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2011,
+            "province": "青海",
+            "rate": "18.61%",
+            "total": 3.6733
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2011,
+            "province": "山东",
+            "rate": "18.37%",
+            "total": 50.9
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2011,
+            "province": "宁夏",
+            "rate": "17.05%",
+            "total": 5.87
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2011,
+            "province": "吉林",
+            "rate": "14.47%",
+            "total": 15.5
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2011,
+            "province": "福建",
+            "rate": "14.19%",
+            "total": 25.5
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2011,
+            "province": "贵州",
+            "rate": "13.87%",
+            "total": 24.78
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2011,
+            "province": "浙江",
+            "rate": "13.38%",
+            "total": 31.3
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2011,
+            "province": "陕西",
+            "rate": "13.21%",
+            "total": 36.65
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2011,
+            "province": "新疆",
+            "rate": "12.92%",
+            "total": 15.87
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2011,
+            "province": "云南",
+            "rate": "12.79%",
+            "total": 23.6
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2011,
+            "province": "海南",
+            "rate": "11.42%",
+            "total": 5.6
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2011,
+            "province": "内蒙古",
+            "rate": "11.21%",
+            "total": 19.3
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2011,
+            "province": "甘肃",
+            "rate": "10.46%",
+            "total": 28.3
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2011,
+            "province": "安徽",
+            "rate": "10.12%",
+            "total": 51.1
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2011,
+            "province": "江苏",
+            "rate": "10.00%",
+            "total": 45.1
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2011,
+            "province": "湖南",
+            "rate": "9.59%",
+            "total": 37.3
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2011,
+            "province": "黑龙江",
+            "rate": "9.58%",
+            "total": 20.8
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2011,
+            "province": "重庆",
+            "rate": "9.34%",
+            "total": 23.5
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2011,
+            "province": "江西",
+            "rate": "9.07%",
+            "total": 27.43
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2011,
+            "province": "河北",
+            "rate": "9.03%",
+            "total": 44.98
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2011,
+            "province": "湖北",
+            "rate": "8.20%",
+            "total": 43.8
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2011,
+            "province": "广西",
+            "rate": "7.72%",
+            "total": 29.8
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2011,
+            "province": "河南",
+            "rate": "6.79%",
+            "total": 71.63
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2011,
+            "province": "广东",
+            "rate": "5.93%",
+            "total": 72.7
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2011,
+            "province": "山西",
+            "rate": "5.89%",
+            "total": 35.8
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2011,
+            "province": "辽宁",
+            "rate": "5.74%",
+            "total": 25.4
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2011,
+            "province": "四川",
+            "rate": "5.28%",
+            "total": 54
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2011,
+            "province": "西藏",
+            "rate": "4.78%",
+            "total": 1.89
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2012,
+            "province": "天津",
+            "rate": "24.52%",
+            "total": 6.3
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2012,
+            "province": "北京",
+            "rate": "24.33%",
+            "total": 7.27
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2012,
+            "province": "上海",
+            "rate": "22.64%",
+            "total": 5.3
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2012,
+            "province": "青海",
+            "rate": "18.61%",
+            "total": 3.6733
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2012,
+            "province": "山东",
+            "rate": "18.37%",
+            "total": 50.9
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2012,
+            "province": "宁夏",
+            "rate": "17.05%",
+            "total": 5.87
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2012,
+            "province": "吉林",
+            "rate": "14.47%",
+            "total": 15.5
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2012,
+            "province": "福建",
+            "rate": "14.19%",
+            "total": 25.5
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2012,
+            "province": "贵州",
+            "rate": "13.87%",
+            "total": 24.78
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2012,
+            "province": "浙江",
+            "rate": "13.38%",
+            "total": 31.3
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2012,
+            "province": "陕西",
+            "rate": "13.21%",
+            "total": 36.65
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2012,
+            "province": "新疆",
+            "rate": "12.92%",
+            "total": 15.87
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2012,
+            "province": "云南",
+            "rate": "12.79%",
+            "total": 23.6
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2012,
+            "province": "海南",
+            "rate": "11.42%",
+            "total": 5.6
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2012,
+            "province": "内蒙古",
+            "rate": "11.21%",
+            "total": 19.3
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2012,
+            "province": "甘肃",
+            "rate": "10.46%",
+            "total": 28.3
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2012,
+            "province": "安徽",
+            "rate": "10.12%",
+            "total": 51.1
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2012,
+            "province": "江苏",
+            "rate": "10.00%",
+            "total": 45.1
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2012,
+            "province": "湖南",
+            "rate": "9.59%",
+            "total": 37.3
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2012,
+            "province": "黑龙江",
+            "rate": "9.58%",
+            "total": 20.8
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2012,
+            "province": "重庆",
+            "rate": "9.34%",
+            "total": 23.5
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2012,
+            "province": "江西",
+            "rate": "9.07%",
+            "total": 27.43
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2012,
+            "province": "河北",
+            "rate": "9.03%",
+            "total": 44.98
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2012,
+            "province": "湖北",
+            "rate": "8.20%",
+            "total": 43.8
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2012,
+            "province": "广西",
+            "rate": "7.72%",
+            "total": 29.8
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2012,
+            "province": "河南",
+            "rate": "6.79%",
+            "total": 71.63
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2012,
+            "province": "广东",
+            "rate": "5.93%",
+            "total": 72.7
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2012,
+            "province": "山西",
+            "rate": "5.89%",
+            "total": 35.8
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2012,
+            "province": "辽宁",
+            "rate": "5.74%",
+            "total": 25.4
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2012,
+            "province": "四川",
+            "rate": "5.28%",
+            "total": 54
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2012,
+            "province": "西藏",
+            "rate": "4.78%",
+            "total": 1.89
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2013,
+            "province": "天津",
+            "rate": "24.52%",
+            "total": 6.3
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2013,
+            "province": "北京",
+            "rate": "24.33%",
+            "total": 7.27
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2013,
+            "province": "上海",
+            "rate": "22.64%",
+            "total": 5.3
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2013,
+            "province": "青海",
+            "rate": "18.61%",
+            "total": 3.6733
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2013,
+            "province": "山东",
+            "rate": "18.37%",
+            "total": 50.9
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2013,
+            "province": "宁夏",
+            "rate": "17.05%",
+            "total": 5.87
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2013,
+            "province": "吉林",
+            "rate": "14.47%",
+            "total": 15.5
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2013,
+            "province": "福建",
+            "rate": "14.19%",
+            "total": 25.5
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2013,
+            "province": "贵州",
+            "rate": "13.87%",
+            "total": 24.78
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2013,
+            "province": "浙江",
+            "rate": "13.38%",
+            "total": 31.3
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2013,
+            "province": "陕西",
+            "rate": "13.21%",
+            "total": 36.65
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2013,
+            "province": "新疆",
+            "rate": "12.92%",
+            "total": 15.87
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2013,
+            "province": "云南",
+            "rate": "12.79%",
+            "total": 23.6
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2013,
+            "province": "海南",
+            "rate": "11.42%",
+            "total": 5.6
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2013,
+            "province": "内蒙古",
+            "rate": "11.21%",
+            "total": 19.3
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2013,
+            "province": "甘肃",
+            "rate": "10.46%",
+            "total": 28.3
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2013,
+            "province": "安徽",
+            "rate": "10.12%",
+            "total": 51.1
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2013,
+            "province": "江苏",
+            "rate": "10.00%",
+            "total": 45.1
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2013,
+            "province": "湖南",
+            "rate": "9.59%",
+            "total": 37.3
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2013,
+            "province": "黑龙江",
+            "rate": "9.58%",
+            "total": 20.8
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2013,
+            "province": "重庆",
+            "rate": "9.34%",
+            "total": 23.5
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2013,
+            "province": "江西",
+            "rate": "9.07%",
+            "total": 27.43
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2013,
+            "province": "河北",
+            "rate": "9.03%",
+            "total": 44.98
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2013,
+            "province": "湖北",
+            "rate": "8.20%",
+            "total": 43.8
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2013,
+            "province": "广西",
+            "rate": "7.72%",
+            "total": 29.8
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2013,
+            "province": "河南",
+            "rate": "6.79%",
+            "total": 71.63
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2013,
+            "province": "广东",
+            "rate": "5.93%",
+            "total": 72.7
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2013,
+            "province": "山西",
+            "rate": "5.89%",
+            "total": 35.8
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2013,
+            "province": "辽宁",
+            "rate": "5.74%",
+            "total": 25.4
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2013,
+            "province": "四川",
+            "rate": "5.28%",
+            "total": 54
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2013,
+            "province": "西藏",
+            "rate": "4.78%",
+            "total": 1.89
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2014,
+            "province": "天津",
+            "rate": "24.52%",
+            "total": 6.3
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2014,
+            "province": "北京",
+            "rate": "24.33%",
+            "total": 7.27
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2014,
+            "province": "上海",
+            "rate": "22.64%",
+            "total": 5.3
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2014,
+            "province": "青海",
+            "rate": "18.61%",
+            "total": 3.6733
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2014,
+            "province": "山东",
+            "rate": "18.37%",
+            "total": 50.9
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2014,
+            "province": "宁夏",
+            "rate": "17.05%",
+            "total": 5.87
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2014,
+            "province": "吉林",
+            "rate": "14.47%",
+            "total": 15.5
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2014,
+            "province": "福建",
+            "rate": "14.19%",
+            "total": 25.5
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2014,
+            "province": "贵州",
+            "rate": "13.87%",
+            "total": 24.78
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2014,
+            "province": "浙江",
+            "rate": "13.38%",
+            "total": 31.3
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2014,
+            "province": "陕西",
+            "rate": "13.21%",
+            "total": 36.65
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2014,
+            "province": "新疆",
+            "rate": "12.92%",
+            "total": 15.87
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2014,
+            "province": "云南",
+            "rate": "12.79%",
+            "total": 23.6
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2014,
+            "province": "海南",
+            "rate": "11.42%",
+            "total": 5.6
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2014,
+            "province": "内蒙古",
+            "rate": "11.21%",
+            "total": 19.3
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2014,
+            "province": "甘肃",
+            "rate": "10.46%",
+            "total": 28.3
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2014,
+            "province": "安徽",
+            "rate": "10.12%",
+            "total": 51.1
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2014,
+            "province": "江苏",
+            "rate": "10.00%",
+            "total": 45.1
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2014,
+            "province": "湖南",
+            "rate": "9.59%",
+            "total": 37.3
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2014,
+            "province": "黑龙江",
+            "rate": "9.58%",
+            "total": 20.8
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2014,
+            "province": "重庆",
+            "rate": "9.34%",
+            "total": 23.5
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2014,
+            "province": "江西",
+            "rate": "9.07%",
+            "total": 27.43
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2014,
+            "province": "河北",
+            "rate": "9.03%",
+            "total": 44.98
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2014,
+            "province": "湖北",
+            "rate": "8.20%",
+            "total": 43.8
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2014,
+            "province": "广西",
+            "rate": "7.72%",
+            "total": 29.8
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2014,
+            "province": "河南",
+            "rate": "6.79%",
+            "total": 71.63
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2014,
+            "province": "广东",
+            "rate": "5.93%",
+            "total": 72.7
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2014,
+            "province": "山西",
+            "rate": "5.89%",
+            "total": 35.8
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2014,
+            "province": "辽宁",
+            "rate": "5.74%",
+            "total": 25.4
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2014,
+            "province": "四川",
+            "rate": "5.28%",
+            "total": 54
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2014,
+            "province": "西藏",
+            "rate": "4.78%",
+            "total": 1.89
+        }
+    ]
+}

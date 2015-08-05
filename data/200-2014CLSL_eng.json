@@ -1,0 +1,3260 @@
+{
+    "_title": "Statics About Home Vehicles in 2000-2014",
+    "datas": [
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2000,
+            "province": "Beijing",
+            "total": 39.21
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2000,
+            "province": "Tianjin",
+            "total": 11.41
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2000,
+            "province": "Hebei",
+            "total": 26.36
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2000,
+            "province": "Shanxi",
+            "total": 11.45
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2000,
+            "province": "Neimenggu",
+            "total": 9.52
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2000,
+            "province": "Liaoning",
+            "total": 17.19
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2000,
+            "province": "Jilin",
+            "total": 8.57
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2000,
+            "province": "Heilongjiang",
+            "total": 8.94
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2000,
+            "province": "Shanghai",
+            "total": 2.14
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2000,
+            "province": "Jiangsu",
+            "total": 7.75
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2000,
+            "province": "Zhejiang",
+            "total": 6.85
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2000,
+            "province": "Anhui",
+            "total": 6.4
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2000,
+            "province": "Fujian",
+            "total": 2.47
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2000,
+            "province": "Jiangxi",
+            "total": 1.95
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2000,
+            "province": "Shandong",
+            "total": 15.16
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2000,
+            "province": "Henan",
+            "total": 17.83
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2000,
+            "province": "Hubei",
+            "total": 6.24
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2000,
+            "province": "Hunan",
+            "total": 9.99
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2000,
+            "province": "Guangdong",
+            "total": 32.51
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2000,
+            "province": "Guangxi",
+            "total": 4.94
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2000,
+            "province": "Hainan",
+            "total": 0.7
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2000,
+            "province": "Chongqing",
+            "total": 1.02
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2000,
+            "province": "Sichuan",
+            "total": 22.3
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2000,
+            "province": "Guizhou",
+            "total": 3.85
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2000,
+            "province": "Yunnan",
+            "total": 8.71
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2000,
+            "province": "Xizang",
+            "total": 0.52
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2000,
+            "province": "Shanxi",
+            "total": 7.21
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2000,
+            "province": "Gansu",
+            "total": 4.04
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2000,
+            "province": "Qinghai",
+            "total": 1.35
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2000,
+            "province": "Ningxia",
+            "total": 1.43
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2000,
+            "province": "Xinjiang",
+            "total": 6.1
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2001,
+            "province": "Beijing",
+            "total": 43.48
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2001,
+            "province": "Tianjin",
+            "total": 13.76
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2001,
+            "province": "Hebei",
+            "total": 33.06
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2001,
+            "province": "Shanxi",
+            "total": 13.59
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2001,
+            "province": "Neimenggu",
+            "total": 11.39
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2001,
+            "province": "Liaoning",
+            "total": 16.34
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2001,
+            "province": "Jilin",
+            "total": 9.35
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2001,
+            "province": "Heilongjiang",
+            "total": 11.91
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2001,
+            "province": "Shanghai",
+            "total": 4.75
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2001,
+            "province": "Jiangsu",
+            "total": 12.29
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2001,
+            "province": "Zhejiang",
+            "total": 9.91
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2001,
+            "province": "Anhui",
+            "total": 7.92
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2001,
+            "province": "Fujian",
+            "total": 6.45
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2001,
+            "province": "Jiangxi",
+            "total": 2.05
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2001,
+            "province": "Shandong",
+            "total": 21.18
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2001,
+            "province": "Henan",
+            "total": 21.43
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2001,
+            "province": "Hubei",
+            "total": 7.6
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2001,
+            "province": "Hunan",
+            "total": 11.73
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2001,
+            "province": "Guangdong",
+            "total": 44.5
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2001,
+            "province": "Guangxi",
+            "total": 6.03
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2001,
+            "province": "Hainan",
+            "total": 0.97
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2001,
+            "province": "Chongqing",
+            "total": 3.12
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2001,
+            "province": "Sichuan",
+            "total": 10.21
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2001,
+            "province": "Guizhou",
+            "total": 4.19
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2001,
+            "province": "Yunnan",
+            "total": 11.41
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2001,
+            "province": "Xizang",
+            "total": 0.67
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2001,
+            "province": "Shanxi",
+            "total": 8.95
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2001,
+            "province": "Gansu",
+            "total": 4.53
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2001,
+            "province": "Qinghai",
+            "total": 1.41
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2001,
+            "province": "Ningxia",
+            "total": 2.25
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2001,
+            "province": "Xinjiang",
+            "total": 8.64
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2002,
+            "province": "Beijing",
+            "total": 55.08
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2002,
+            "province": "Tianjin",
+            "total": 17.09
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2002,
+            "province": "Heibei",
+            "total": 41.22
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2002,
+            "province": "Shanxi",
+            "total": 16.62
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2002,
+            "province": "Neimenggu",
+            "total": 12.14
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2002,
+            "province": "Liaoning",
+            "total": 19.87
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2002,
+            "province": "Jilin",
+            "total": 9.71
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2002,
+            "province": "Heilongjiang",
+            "total": 15.57
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2002,
+            "province": "Shanghai",
+            "total": 8.4
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2002,
+            "province": "Jiangsu",
+            "total": 18.48
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2002,
+            "province": "Zhejiang",
+            "total": 13.06
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2002,
+            "province": "Anhui",
+            "total": 9.7
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2002,
+            "province": "Fujian",
+            "total": 8.12
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2002,
+            "province": "Jiangxi",
+            "total": 3.23
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2002,
+            "province": "Shandong",
+            "total": 28.36
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2002,
+            "province": "Henan",
+            "total": 24.3
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2002,
+            "province": "Hubei",
+            "total": 9.46
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2002,
+            "province": "Hunan",
+            "total": 13.05
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2002,
+            "province": "Guangdong",
+            "total": 55.26
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2002,
+            "province": "Guangxi",
+            "total": 6.3
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2002,
+            "province": "Hainan",
+            "total": 0.84
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2002,
+            "province": "Chongqing",
+            "total": 5.53
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2002,
+            "province": "Sichuan",
+            "total": 27.54
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2002,
+            "province": "Guizhou",
+            "total": 5.34
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2002,
+            "province": "Yunnan",
+            "total": 13.64
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2002,
+            "province": "Xizang",
+            "total": 0.75
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2002,
+            "province": "Shanxi",
+            "total": 10.02
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2002,
+            "province": "Gansu",
+            "total": 5.1
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2002,
+            "province": "Qinghai",
+            "total": 1.75
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2002,
+            "province": "Ningxia",
+            "total": 2.44
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2002,
+            "province": "Xinjiang",
+            "total": 11.88
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2003,
+            "province": "Beijing",
+            "total": 72.88
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2003,
+            "province": "Tianjin",
+            "total": 20.34
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2003,
+            "province": "Heibei",
+            "total": 53.09
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2003,
+            "province": "Shanxi",
+            "total": 17.87
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2003,
+            "province": "Neimenggu",
+            "total": 13.13
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2003,
+            "province": "Liaoning",
+            "total": 21.86
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2003,
+            "province": "Jilin",
+            "total": 13.2
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2003,
+            "province": "Heilongjiang",
+            "total": 17.04
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2003,
+            "province": "Shanghai",
+            "total": 14.36
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2003,
+            "province": "Jiangsu",
+            "total": 28.77
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2003,
+            "province": "Zhejiang",
+            "total": 30.92
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2003,
+            "province": "Anhui",
+            "total": 11.89
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2003,
+            "province": "Fujian",
+            "total": 11.65
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2003,
+            "province": "Jiangxi",
+            "total": 4.53
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2003,
+            "province": "Shandong",
+            "total": 42.55
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2003,
+            "province": "Henan",
+            "total": 28.53
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2003,
+            "province": "Hubei",
+            "total": 12.77
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2003,
+            "province": "Hunan",
+            "total": 15.12
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2003,
+            "province": "Guangdong",
+            "total": 79.67
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2003,
+            "province": "Guangxi",
+            "total": 9.34
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2003,
+            "province": "Hainan",
+            "total": 1.48
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2003,
+            "province": "Chongqing",
+            "total": 5.82
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2003,
+            "province": "Sichuan",
+            "total": 35.56
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2003,
+            "province": "Guizhou",
+            "total": 5.02
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2003,
+            "province": "Yunnan",
+            "total": 18.92
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2003,
+            "province": "Xizang",
+            "total": 1.03
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2003,
+            "province": "Shanxi",
+            "total": 13.5
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2003,
+            "province": "Gansu",
+            "total": 5.37
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2003,
+            "province": "Qinghai",
+            "total": 2.12
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2003,
+            "province": "Ningxia",
+            "total": 2.45
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2003,
+            "province": "Xinjiang",
+            "total": 12.97
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2004,
+            "province": "Beijing",
+            "total": 98.4
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2004,
+            "province": "Tianjin",
+            "total": 24.81
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2004,
+            "province": "Heibei",
+            "total": 66.08
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2004,
+            "province": "Shanxi",
+            "total": 22.86
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2004,
+            "province": "Neimenggu",
+            "total": 18.76
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2004,
+            "province": "Liaoning",
+            "total": 26.23
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2004,
+            "province": "Jilin",
+            "total": 18.83
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2004,
+            "province": "Heilongjiang",
+            "total": 24.4
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2004,
+            "province": "Shanghai",
+            "total": 22.13
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2004,
+            "province": "Jiangsu",
+            "total": 45.81
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2004,
+            "province": "Zhejiang",
+            "total": 53.14
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2004,
+            "province": "Anhui",
+            "total": 14.45
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2004,
+            "province": "Fujian",
+            "total": 16.75
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2004,
+            "province": "Jiangxi",
+            "total": 6.22
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2004,
+            "province": "Shandong",
+            "total": 60.49
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2004,
+            "province": "Henan",
+            "total": 36.45
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2004,
+            "province": "Hubei",
+            "total": 18.19
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2004,
+            "province": "Hunan",
+            "total": 19.14
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2004,
+            "province": "Guangdong",
+            "total": 107.64
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2004,
+            "province": "Guangxi",
+            "total": 13.14
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2004,
+            "province": "Hainan",
+            "total": 2.3
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2004,
+            "province": "Chongqing",
+            "total": 7.99
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2004,
+            "province": "Sichuan",
+            "total": 45.46
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2004,
+            "province": "Guizhou",
+            "total": 5.47
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2004,
+            "province": "Yunnan",
+            "total": 24.56
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2004,
+            "province": "Xizang",
+            "total": 0.31
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2004,
+            "province": "Shanxi",
+            "total": 20.72
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2004,
+            "province": "Gansu",
+            "total": 5.61
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2004,
+            "province": "Qinghai",
+            "total": 2.37
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2004,
+            "province": "Ningxia",
+            "total": 3.19
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2004,
+            "province": "Xinjiang",
+            "total": 13.95
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2005,
+            "province": "Beijing",
+            "total": 116.68
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2005,
+            "province": "Tianjin",
+            "total": 30.67
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2005,
+            "province": "Hebei",
+            "total": 79.43
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2005,
+            "province": "Shanxi",
+            "total": 28.87
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2005,
+            "province": "Neimenggu",
+            "total": 23.06
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2005,
+            "province": "Liaoning",
+            "total": 36.5
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2005,
+            "province": "Jilin",
+            "total": 23.02
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2005,
+            "province": "Heilongjiang",
+            "total": 26.49
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2005,
+            "province": "Shanghai",
+            "total": 31.47
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2005,
+            "province": "Jiangsu",
+            "total": 63.96
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2005,
+            "province": "Zhejiang",
+            "total": 74.03
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2005,
+            "province": "Anhui",
+            "total": 16.87
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2005,
+            "province": "Fujian",
+            "total": 21.77
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2005,
+            "province": "Jiangxi",
+            "total": 7.79
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2005,
+            "province": "Shandong",
+            "total": 82.35
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2005,
+            "province": "Henan",
+            "total": 43.91
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2005,
+            "province": "Hubei",
+            "total": 22.87
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2005,
+            "province": "Hunan",
+            "total": 22.55
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2005,
+            "province": "Guangdong",
+            "total": 142.63
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2005,
+            "province": "Guangxi",
+            "total": 15.46
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2005,
+            "province": "Hainan",
+            "total": 3.23
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2005,
+            "province": "Chongqing",
+            "total": 9.5
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2005,
+            "province": "Sichuan",
+            "total": 56.51
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2005,
+            "province": "Guizhou",
+            "total": 8.56
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2005,
+            "province": "Yunnan",
+            "total": 31.24
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2005,
+            "province": "Xizang",
+            "total": 1.58
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2005,
+            "province": "Shanxi",
+            "total": 23.26
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2005,
+            "province": "Gansu",
+            "total": 4.81
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2005,
+            "province": "Qinghai",
+            "total": 2.71
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2005,
+            "province": "Ningxia",
+            "total": 3.28
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2005,
+            "province": "Xinjiang",
+            "total": 14.63
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2006,
+            "province": "Beijing",
+            "total": 140.52
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2006,
+            "province": "Tianjin",
+            "total": 38.62
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2006,
+            "province": "Hebei",
+            "total": 97
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2006,
+            "province": "Shanxi",
+            "total": 43.03
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2006,
+            "province": "Neimenggu",
+            "total": 27.78
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2006,
+            "province": "Liaoning",
+            "total": 47.1
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2006,
+            "province": "Jilin",
+            "total": 29.22
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2006,
+            "province": "Heilongjiang",
+            "total": 32.84
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2006,
+            "province": "Shanghai",
+            "total": 40.97
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2006,
+            "province": "Jiangsu",
+            "total": 94.21
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2006,
+            "province": "Zhejiang",
+            "total": 102.67
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2006,
+            "province": "Anhui",
+            "total": 22.98
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2006,
+            "province": "Fujian",
+            "total": 29.29
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2006,
+            "province": "Jiangxi",
+            "total": 11.66
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2006,
+            "province": "Shandong",
+            "total": 97.69
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2006,
+            "province": "Henan",
+            "total": 61.42
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2006,
+            "province": "Hubei",
+            "total": 29.71
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2006,
+            "province": "Hunan",
+            "total": 29.61
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2006,
+            "province": "Guangdong",
+            "total": 183.4
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2006,
+            "province": "Guangxi",
+            "total": 21.07
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2006,
+            "province": "Hainan",
+            "total": 4.63
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2006,
+            "province": "Chongqing",
+            "total": 15.33
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2006,
+            "province": "Sichuan",
+            "total": 66.19
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2006,
+            "province": "Guizhou",
+            "total": 16.27
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2006,
+            "province": "Yunnan",
+            "total": 39.52
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2006,
+            "province": "Xizang",
+            "total": 1.49
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2006,
+            "province": "Shanxi",
+            "total": 25.89
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2006,
+            "province": "Gansu",
+            "total": 7.12
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2006,
+            "province": "Qinghai",
+            "total": 3.17
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2006,
+            "province": "Ningxia",
+            "total": 4.65
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2006,
+            "province": "Xinjiang",
+            "total": 18.89
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2007,
+            "province": "Beijing",
+            "total": 167.57
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2007,
+            "province": "Tianjin",
+            "total": 47.73
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2007,
+            "province": "Hebei",
+            "total": 123.79
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2007,
+            "province": "Shanxi",
+            "total": 56.89
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2007,
+            "province": "Neimenggu",
+            "total": 37.86
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2007,
+            "province": "Liaoning",
+            "total": 63.86
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2007,
+            "province": "Jilin",
+            "total": 35.38
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2007,
+            "province": "Heilongjiang",
+            "total": 39.73
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2007,
+            "province": "Shanghai",
+            "total": 50.91
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2007,
+            "province": "Jiangsu",
+            "total": 132.02
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2007,
+            "province": "Zhejiang",
+            "total": 137.13
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2007,
+            "province": "Anhui",
+            "total": 30.63
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2007,
+            "province": "Fujian",
+            "total": 41.46
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2007,
+            "province": "Jiangxi",
+            "total": 16.47
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2007,
+            "province": "Shandong",
+            "total": 155.24
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2007,
+            "province": "Henan",
+            "total": 80.07
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2007,
+            "province": "Hubei",
+            "total": 38
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2007,
+            "province": "Hunan",
+            "total": 38.51
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2007,
+            "province": "Guangdong",
+            "total": 234.01
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2007,
+            "province": "Guangxi",
+            "total": 27.57
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2007,
+            "province": "Hainan",
+            "total": 6.33
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2007,
+            "province": "Chongqing",
+            "total": 19.45
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2007,
+            "province": "Sichuan",
+            "total": 91.33
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2007,
+            "province": "Guizhou",
+            "total": 20.69
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2007,
+            "province": "Yunnan",
+            "total": 49.81
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2007,
+            "province": "Xizang",
+            "total": 2.49
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2007,
+            "province": "Shanxi",
+            "total": 37.8
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2007,
+            "province": "Gansu",
+            "total": 8.65
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2007,
+            "province": "Qinghai",
+            "total": 4.09
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2007,
+            "province": "Ningxia",
+            "total": 5.86
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2007,
+            "province": "Xinjiang",
+            "total": 22.22
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2008,
+            "province": "Beijing",
+            "total": 199.37
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2008,
+            "province": "Tianjin",
+            "total": 58.56
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2008,
+            "province": "Hebei",
+            "total": 156.17
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2008,
+            "province": "Shanxi",
+            "total": 73.95
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2008,
+            "province": "Neimenggu",
+            "total": 48.93
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2008,
+            "province": "Liaoning",
+            "total": 78.84
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2008,
+            "province": "Jilin",
+            "total": 45.13
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2008,
+            "province": "Heilongjiang",
+            "total": 49.41
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2008,
+            "province": "Shanghai",
+            "total": 61.25
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2008,
+            "province": "Jiangsu",
+            "total": 175.41
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2008,
+            "province": "Zhejiang",
+            "total": 178.24
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2008,
+            "province": "Anhui",
+            "total": 41.63
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2008,
+            "province": "Fujian",
+            "total": 56.44
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2008,
+            "province": "Jiangxi",
+            "total": 22.78
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2008,
+            "province": "Shandong",
+            "total": 204.81
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2008,
+            "province": "Henan",
+            "total": 103.44
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2008,
+            "province": "Hubei",
+            "total": 49.3
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2008,
+            "province": "Hunan",
+            "total": 50.84
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2008,
+            "province": "Guangdong",
+            "total": 298.42
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2008,
+            "province": "Guangxi",
+            "total": 36.2
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2008,
+            "province": "Hainan",
+            "total": 8.79
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2008,
+            "province": "Chongqing",
+            "total": 24.58
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2008,
+            "province": "Sichuan",
+            "total": 100.76
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2008,
+            "province": "Guizhou",
+            "total": 27.11
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2008,
+            "province": "Yunnan",
+            "total": 62.47
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2008,
+            "province": "Xizang",
+            "total": 3.55
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2008,
+            "province": "Shanxi",
+            "total": 48.01
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2008,
+            "province": "Gansu",
+            "total": 11.72
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2008,
+            "province": "Qinghai",
+            "total": 5.25
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2008,
+            "province": "Ningxia",
+            "total": 7.53
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2008,
+            "province": "Xinjiang",
+            "total": 28.02
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2009,
+            "province": "Beijing",
+            "total": 235.61
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2009,
+            "province": "Tianjin",
+            "total": 70.88
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2009,
+            "province": "Hebei",
+            "total": 188.03
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2009,
+            "province": "Shanxi",
+            "total": 95.45
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2009,
+            "province": "Neimenggu",
+            "total": 63.72
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2009,
+            "province": "Liaoning",
+            "total": 97.55
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2009,
+            "province": "Jilin",
+            "total": 53.78
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2009,
+            "province": "Heilongjiang",
+            "total": 61.69
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2009,
+            "province": "Shanghai",
+            "total": 71.99
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2009,
+            "province": "Jiangsu",
+            "total": 219.74
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2009,
+            "province": "Zhejiang",
+            "total": 217.83
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2009,
+            "province": "Anhui",
+            "total": 55.75
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2009,
+            "province": "Fujian",
+            "total": 71.79
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2009,
+            "province": "Jiangxi",
+            "total": 30.65
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2009,
+            "province": "Shandong",
+            "total": 260.38
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2009,
+            "province": "Henan",
+            "total": 132.29
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2009,
+            "province": "Hubei",
+            "total": 62.98
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2009,
+            "province": "Hunan",
+            "total": 67.03
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2009,
+            "province": "Guangdong",
+            "total": 360.16
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2009,
+            "province": "Guangxi",
+            "total": 46.63
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2009,
+            "province": "Hainan",
+            "total": 11.83
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2009,
+            "province": "Chongqing",
+            "total": 31.43
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2009,
+            "province": "Sichuan",
+            "total": 126.99
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2009,
+            "province": "Guizhou",
+            "total": 34.13
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2009,
+            "province": "Yunnan",
+            "total": 76.33
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2009,
+            "province": "Xizang",
+            "total": 5.29
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2009,
+            "province": "Shanxi",
+            "total": 61.82
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2009,
+            "province": "Gansu",
+            "total": 16.02
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2009,
+            "province": "Qinghai",
+            "total": 7.5
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2009,
+            "province": "Ningxia",
+            "total": 9.92
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2009,
+            "province": "Xinjiang",
+            "total": 35.31
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2010,
+            "province": "Beijing",
+            "total": 288.3
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2010,
+            "province": "Tianjin",
+            "total": 89.58
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2010,
+            "province": "Hebei",
+            "total": 248.11
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2010,
+            "province": "Shanxi",
+            "total": 122.01
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2010,
+            "province": "Neimenggu",
+            "total": 86.82
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2010,
+            "province": "Liaoning",
+            "total": 131.3
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2010,
+            "province": "Jilin",
+            "total": 72.88
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2010,
+            "province": "Heilongjiang",
+            "total": 85.42
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2010,
+            "province": "Shanghai",
+            "total": 84.95
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2010,
+            "province": "Jiangsu",
+            "total": 291.19
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2010,
+            "province": "Zhejiang",
+            "total": 285.2
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2010,
+            "province": "Anhui",
+            "total": 78.29
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2010,
+            "province": "Fujian",
+            "total": 94.39
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2010,
+            "province": "Jiangxi",
+            "total": 47.62
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2010,
+            "province": "Shandong",
+            "total": 361.34
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2010,
+            "province": "Henan",
+            "total": 181.38
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2010,
+            "province": "Hubei",
+            "total": 86.56
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2010,
+            "province": "Hunan",
+            "total": 96.62
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2010,
+            "province": "Guangdong",
+            "total": 435.51
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2010,
+            "province": "Guangxi",
+            "total": 64.83
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2010,
+            "province": "Hainan",
+            "total": 15.58
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2010,
+            "province": "Chongqing",
+            "total": 43.44
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2010,
+            "province": "Sichuan",
+            "total": 177.44
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2010,
+            "province": "Guizhou",
+            "total": 47.08
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2010,
+            "province": "Yunnan",
+            "total": 102.45
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2010,
+            "province": "Xizang",
+            "total": 5.14
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2010,
+            "province": "Shanxi",
+            "total": 87.99
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2010,
+            "province": "Gansu",
+            "total": 25.06
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2010,
+            "province": "Qinghai",
+            "total": 10.08
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2010,
+            "province": "Ningxia",
+            "total": 14.67
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2010,
+            "province": "Xinjiang",
+            "total": 47.1
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2011,
+            "province": "Beijing",
+            "total": 363.13
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2011,
+            "province": "Tianjin",
+            "total": 112.99
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2011,
+            "province": "Hebei",
+            "total": 323.27
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2011,
+            "province": "Shanxi",
+            "total": 154.14
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2011,
+            "province": "Neimenggu",
+            "total": 115.59
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2011,
+            "province": "Liaoning",
+            "total": 170.75
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2011,
+            "province": "Jilin",
+            "total": 94.2
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2011,
+            "province": "Heilongjiang",
+            "total": 110.24
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2011,
+            "province": "Shanghai",
+            "total": 103.57
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2011,
+            "province": "Jiangsu",
+            "total": 383.94
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2011,
+            "province": "Zhejiang",
+            "total": 376.53
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2011,
+            "province": "Anhui",
+            "total": 107.82
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2011,
+            "province": "Fujian",
+            "total": 122.57
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2011,
+            "province": "Jiangxi",
+            "total": 69.63
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2011,
+            "province": "Shandong",
+            "total": 485.36
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2011,
+            "province": "Henan",
+            "total": 244.76
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2011,
+            "province": "Hubei",
+            "total": 115.37
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2011,
+            "province": "Hunan",
+            "total": 130.65
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2011,
+            "province": "Guangdong",
+            "total": 536.79
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2011,
+            "province": "Guangxi",
+            "total": 88.01
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2011,
+            "province": "Hainan",
+            "total": 21.57
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2011,
+            "province": "Chongqing",
+            "total": 59.86
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2011,
+            "province": "Sichuan",
+            "total": 234.22
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2011,
+            "province": "Guizhou",
+            "total": 64.14
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2011,
+            "province": "Yunnan",
+            "total": 135.87
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2011,
+            "province": "Xizang",
+            "total": 6.28
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2011,
+            "province": "Shanxi",
+            "total": 121.01
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2011,
+            "province": "Gansu",
+            "total": 36.74
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2011,
+            "province": "Qinghai",
+            "total": 14.37
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2011,
+            "province": "Ningxia",
+            "total": 21.14
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2011,
+            "province": "Xinjiang",
+            "total": 64.98
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2012,
+            "province": "Beijing",
+            "total": 378.5
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2012,
+            "province": "Tianjin",
+            "total": 140.98
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2012,
+            "province": "Hebei",
+            "total": 416.19
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2012,
+            "province": "Shanxi",
+            "total": 193.16
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2012,
+            "province": "Neimenggu",
+            "total": 151.93
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2012,
+            "province": "Liaoning",
+            "total": 217.15
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2012,
+            "province": "Jilin",
+            "total": 117.39
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2012,
+            "province": "Heilongjiang",
+            "total": 137.29
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2012,
+            "province": "Shanghai",
+            "total": 119.57
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2012,
+            "province": "Jiangsu",
+            "total": 488.13
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2012,
+            "province": "Zhejiang",
+            "total": 472.85
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2012,
+            "province": "Anhui",
+            "total": 144.79
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2012,
+            "province": "Fujian",
+            "total": 155.04
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2012,
+            "province": "Jiangxi",
+            "total": 95.26
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2012,
+            "province": "Shandong",
+            "total": 607.87
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2012,
+            "province": "Henan",
+            "total": 322.71
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2012,
+            "province": "Hubei",
+            "total": 147.32
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2012,
+            "province": "Hunan",
+            "total": 168.21
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2012,
+            "province": "Guangdong",
+            "total": 645
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2012,
+            "province": "Guangxi",
+            "total": 115.4
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2012,
+            "province": "Hainan",
+            "total": 27.65
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2012,
+            "province": "Chongqing",
+            "total": 78.3
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2012,
+            "province": "Sichuan",
+            "total": 290.08
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2012,
+            "province": "Guizhou",
+            "total": 81.34
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2012,
+            "province": "Yunnan",
+            "total": 170.91
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2012,
+            "province": "Xizang",
+            "total": 7.6
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2012,
+            "province": "Shanxi",
+            "total": 157.3
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2012,
+            "province": "Gansu",
+            "total": 50.28
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2012,
+            "province": "Qinghai",
+            "total": 20.55
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2012,
+            "province": "Ningxia",
+            "total": 29.11
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2012,
+            "province": "Xinjiang",
+            "total": 89.6
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2013,
+            "province": "Beijing",
+            "total": 396.56
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2013,
+            "province": "Tianjin",
+            "total": 169.87
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2013,
+            "province": "Hebei",
+            "total": 516.68
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2013,
+            "province": "Shanxi",
+            "total": 233.47
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2013,
+            "province": "Neimenggu",
+            "total": 190.64
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2013,
+            "province": "Liaoning",
+            "total": 267
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2013,
+            "province": "Jilin",
+            "total": 144.84
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2013,
+            "province": "Heilongjiang",
+            "total": 164.42
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2013,
+            "province": "Shanghai",
+            "total": 140.84
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2013,
+            "province": "Jiangsu",
+            "total": 600.51
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2013,
+            "province": "Zhejiang",
+            "total": 575.26
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2013,
+            "province": "Anhui",
+            "total": 187.7
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2013,
+            "province": "Fujian",
+            "total": 191.38
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2013,
+            "province": "Jiangxi",
+            "total": 124.8
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2013,
+            "province": "Shandong",
+            "total": 767.68
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2013,
+            "province": "Henan",
+            "total": 400.08
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2013,
+            "province": "Hubei",
+            "total": 186.15
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2013,
+            "province": "Hunan",
+            "total": 213.43
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2013,
+            "province": "Guangdong",
+            "total": 754.96
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2013,
+            "province": "Guangxi",
+            "total": 146.94
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2013,
+            "province": "Hainan",
+            "total": 33.9
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2013,
+            "province": "Chongqing",
+            "total": 102.48
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2013,
+            "province": "Sichuan",
+            "total": 351.31
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2013,
+            "province": "Guizhou",
+            "total": 104.86
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2013,
+            "province": "Yunnan",
+            "total": 210.56
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2013,
+            "province": "Xizang",
+            "total": 9.15
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2013,
+            "province": "Shanxi",
+            "total": 198.35
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2013,
+            "province": "Gansu",
+            "total": 67.23
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2013,
+            "province": "Qinghai",
+            "total": 27.78
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2013,
+            "province": "Ningxia",
+            "total": 38.5
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2013,
+            "province": "Xinjiang",
+            "total": 120.53
+        },
+        {
+            "enter": 1.7686,
+            "id": "BEIJING",
+            "index": 2014,
+            "province": "Beijing",
+            "total": 415.89
+        },
+        {
+            "enter": 1.5447,
+            "id": "TIANJIN",
+            "index": 2014,
+            "province": "Tianjin",
+            "total": 206.95
+        },
+        {
+            "enter": 4.0602,
+            "id": "HEBEI",
+            "index": 2014,
+            "province": "Hebei",
+            "total": 612.01
+        },
+        {
+            "enter": 2.1091,
+            "id": "SHANXI",
+            "index": 2014,
+            "province": "Shanxi",
+            "total": 279.46
+        },
+        {
+            "enter": 2.163,
+            "id": "NEIMENGGU",
+            "index": 2014,
+            "province": "Neimenggu",
+            "total": 227.82
+        },
+        {
+            "enter": 1.4583,
+            "id": "LIAONING",
+            "index": 2014,
+            "province": "Liaoning",
+            "total": 318.96
+        },
+        {
+            "enter": 2.2435,
+            "id": "JILIN",
+            "index": 2014,
+            "province": "Jilin",
+            "total": 177.75
+        },
+        {
+            "enter": 1.9931,
+            "id": "HEILONGJIANG",
+            "index": 2014,
+            "province": "Heilongjiang",
+            "total": 191.67
+        },
+        {
+            "enter": 1.2,
+            "id": "SHANGHAI",
+            "index": 2014,
+            "province": "Shanghai",
+            "total": 162.88
+        },
+        {
+            "enter": 4.5085,
+            "id": "JIANGSU",
+            "index": 2014,
+            "province": "Jiangsu",
+            "total": 729.46
+        },
+        {
+            "enter": 4.1887,
+            "id": "ZHEJIANG",
+            "index": 2014,
+            "province": "Zhejiang",
+            "total": 690.46
+        },
+        {
+            "enter": 5.1692,
+            "id": "ANHUI",
+            "index": 2014,
+            "province": "Anhui",
+            "total": 236.01
+        },
+        {
+            "enter": 3.6186,
+            "id": "FUJIAN",
+            "index": 2014,
+            "province": "Fujian",
+            "total": 233.78
+        },
+        {
+            "enter": 2.4891,
+            "id": "JIANGXI",
+            "index": 2014,
+            "province": "Jiangxi",
+            "total": 160.57
+        },
+        {
+            "enter": 9.351,
+            "id": "SHANDONG",
+            "index": 2014,
+            "province": "Shandong",
+            "total": 919.36
+        },
+        {
+            "enter": 4.8655,
+            "id": "HENAN",
+            "index": 2014,
+            "province": "Henan",
+            "total": 503.92
+        },
+        {
+            "enter": 3.5923,
+            "id": "HUBEI",
+            "index": 2014,
+            "province": "Hubei",
+            "total": 236.7
+        },
+        {
+            "enter": 3.5789,
+            "id": "HUNAN",
+            "index": 2014,
+            "province": "Hunan",
+            "total": 266.94
+        },
+        {
+            "enter": 4.3092,
+            "id": "GUANGDONG",
+            "index": 2014,
+            "province": "Guangdong",
+            "total": 881.56
+        },
+        {
+            "enter": 2.3,
+            "id": "GUANGXI",
+            "index": 2014,
+            "province": "Guangxi",
+            "total": 187.31
+        },
+        {
+            "enter": 0.6396,
+            "id": "HAINAN",
+            "index": 2014,
+            "province": "Hainan",
+            "total": 41.67
+        },
+        {
+            "enter": 2.195,
+            "id": "CHONGQING",
+            "index": 2014,
+            "province": "Chongqing",
+            "total": 131.29
+        },
+        {
+            "enter": 2.849,
+            "id": "SICHUAN",
+            "index": 2014,
+            "province": "Sichuan",
+            "total": 423.74
+        },
+        {
+            "enter": 3.4369,
+            "id": "GUIZHOU",
+            "index": 2014,
+            "province": "Guizhou",
+            "total": 134.31
+        },
+        {
+            "enter": 3.0179,
+            "id": "YUNNAN",
+            "index": 2014,
+            "province": "Yunnan",
+            "total": 253.88
+        },
+        {
+            "enter": 0.0904,
+            "id": "XIZANG",
+            "index": 2014,
+            "province": "Xizang",
+            "total": 11.63
+        },
+        {
+            "enter": 4.8422,
+            "id": "SHAANXI",
+            "index": 2014,
+            "province": "Shanxi",
+            "total": 245.33
+        },
+        {
+            "enter": 2.9598,
+            "id": "GANSU",
+            "index": 2014,
+            "province": "Gansu",
+            "total": 87.89
+        },
+        {
+            "enter": 0.6837,
+            "id": "QINGHAI",
+            "index": 2014,
+            "province": "Qinghai",
+            "total": 35.57
+        },
+        {
+            "enter": 1.001,
+            "id": "NINGXIA",
+            "index": 2014,
+            "province": "Ningxia",
+            "total": 47.73
+        },
+        {
+            "enter": 2.05,
+            "id": "XINJIANG",
+            "index": 2014,
+            "province": "Xinjiang",
+            "total": 145.75
+        }
+    ]
+}

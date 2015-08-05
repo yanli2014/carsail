@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <title>全国车辆信息统计</title>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/d3/d3.v3.min.js"></script>
+    <script src="js/d3/queue.v1.min.js"></script>
+    <script src="js/d3/topojson.v1.min.js"></script>
+    <script src="js/jquery.mousewheel.js"></script>
+    <script src="js/jquery.easing.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/append.css" />
+  </head>
+  <body>
+   <div id="wrap">
+       <!--div提示框-->
+  	<div id="tooltip" class="hidden box">
+  	    <p>
+          <strong class="dataHolder" name="province" style="margin-right: 5px;"></strong>Rank: <span class="dataHolder" name="sort"></span>
+  	    </p>
+  	    <div>Vehicles(10K): <span class="dataHolder" name="total"></span></div>
+  	</div>
+      <div id="left">
+        <div class="left-title">Relationship between GDP and Vehicles(<span id="liner-province"></span>)
+          <div class="liner-legend">
+            <span class="legend-car"><b>——</b>Car Quantity(10K)</span>
+            <span class="legend-gdp"><b>——</b>Average Gdp(10K)</span>
+            <p id="noFileTip">Click a province to see it's graph.</p>
+          </div>
+        </div>
+        <div id="linerContainer">
+        </div>
+      </div>
+      <div id="center">
+      </div>
+      <div id="right">
+    		<div  class="box" style="background-color: #eaeaea; overflow-y:auto; width:260px; height:460px;">
+      		<div style="text-align:center; margin-bottom:10px;font-family:微软雅黑,宋体;font-size: 16px;color : #f00;" id="titleName"></div>
+      		<table style="width:250px;" cellpadding="0" cellspacing="0">
+      			<thead>
+      			   <tr>
+      				<th>Rank</th>
+      				<th>Province</th>
+      				<th>Vehicles(10K)</th>
+      			   </tr>
+      			</thead>
+      			<tbody id="tbody">
+      			</tbody>
+      		</table>
+    		</div>
+      </div>
+    </div>
+  <div style="position: absolute; bottom: 5px; width: 100%; font-size: 16px; text-align: center;">
+    <p><button onclick="autoPlay();" class="btn btn-primary">Start AutoPlay</button>
+      <button onclick="stopAutoPlay();" class="btn btn-primary">Stop AutoPlay</button></p>
+  </div>
+  <div>
+    <section id="timeline" class="timeline">
+    <div id="line" class="line_white"></div>
+    <div id="impress">
+      <div id="timeList">
+        <div class="timeList_item step"  data-x="0" data-y="0"  id="1" data-year="2000">
+          <div class="circle" onclick="sortByTotal(2000);">2000</div>
+        </div>
+        <div class="timeList_item step"  data-x="200" data-y="0" id="2" data-year="2001">
+          <div class="circle" onclick="sortByTotal(2001);">2001</div>
+        </div>
+        <div class="timeList_item step"  data-x="400" data-y="0" id="3" data-year="2002">
+          <div class="circle" onclick="sortByTotal(2002);">2002</div>
+        </div>
+        <div class="timeList_item step"  data-x="600" data-y="0" id="4" data-year="2003">
+          <div class="circle" onclick="sortByTotal(2003);"> 2003 </div>
+        </div>
+        <div class="timeList_item step"  data-x="800" data-y="0" id="5" data-year="2004">
+          <div class="circle" onclick="sortByTotal(2004);"> 2004 </div>
+        </div>
+        <div class="timeList_item step"  data-x="1000" data-y="0" id="6" data-year="2005">
+          <div class="circle" onclick="sortByTotal(2005);"> 2005 </div>
+        </div>
+        <div class="timeList_item step"  data-x="1200" data-y="0" id="7" data-year="2006">
+          <div class="circle" onclick="sortByTotal(2006);"> 2006 </div>
+        </div>
+        <div class="timeList_item step"  data-x="1400" data-y="0" id="8" data-year="2007">
+          <div class="circle" onclick="sortByTotal(2007);"> 2007 </div>
+        </div>
+        <div class="timeList_item step"  data-x="1600" data-y="0" id="9" data-year="2008">
+          <div class="circle" onclick="sortByTotal(2008);"> 2008 </div>
+        </div>
+        <div class="timeList_item step"  data-x="1800" data-y="0"  id="10" data-year="2009">
+          <div class="circle" onclick="sortByTotal(2009);"> 2009 </div>
+        </div>
+        <div class="timeList_item step"  data-x="2000" data-y="0" id="11" data-year="2010">
+          <div class="circle" onclick="sortByTotal(2010);"> 2010 </div>
+        </div>
+        <div class="timeList_item step"  data-x="2200" data-y="0" id="12" data-year="2011">
+          <div class="circle" onclick="sortByTotal(2011);"> 2011 </div>
+        </div>
+        <div class="timeList_item step"  data-x="2400" data-y="0" id="13" data-year="2012">
+          <div class="circle" onclick="sortByTotal(2012);"> 2012 </div>
+        </div>
+        <div class="timeList_item step"  data-x="2600" data-y="0" id="14" data-year="2013">
+          <div class="circle" onclick="sortByTotal(2013);"> 2013 </div>
+        </div>
+        <div class="timeList_item step"  data-x="2800" data-y="0" id="15" data-year="2014">
+          <div class="circle" onclick="sortByTotal(2014);"> 2014 </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  </div>
+  </body>
+  <script src="js/linerGraph.js"></script>
+   <script type="text/javascript">
+        var container;
+        var width = $("#wrap").width();
+        var height = window.innerHeight;
+        var colors;
+        var mouseDuration = 250,        //鼠标移动动画时长
+                duration = 1000;
+
+        var chinaG;                      //包含中国地图的group;
+        var setting = {
+            strokeColor:"#6a6a6a"
+        }
+
+        // Project from latlng to pixel coords
+        //使用墨卡托投影
+        var projection = d3.geo.mercator()
+                .scale(width * 0.7, height* 0.8)                                   //对地图进行缩放
+                .translate([width / 2, height / 2])                 //将地图平移到屏幕中间
+                .rotate([-80, 0])
+                .center([15, 35])                                  //设置中心点，调整到屏幕中心
+        ;
+
+        // Draw geojson to svg path using the projection
+        var path = d3.geo.path().projection(projection);
+
+        //画出中国地图
+        function drawChina(ds){
+            if(!chinaG)
+                chinaG = container.append("g");
+            chinaG.selectAll("path")
+                    .data(ds.features)
+                    .enter()
+                    .insert("path")
+                    .attr("id", function(d){
+                        return d.id;
+                    })
+                    .attr("fill", "#000000")
+                    .attr("d", path)
+                    .attr('stroke',setting.strokeColor)
+                    .attr('stroke-width','0.7px');
+        }
+
+        /**
+         * 获取0到max之间的随机整数
+         */
+        function random(max){
+            return (Math.random()*max).toFixed(0);
+        }
+        function px(v){
+            if(typeof v === 'string')
+                return v.replace("px",'');
+            return v+"px";
+        }
+
+        /**
+         * 创建svg
+         */
+        function createSVG(id,w,h){
+            d3.select("#center").append("svg")
+                    .attr("id",id)
+                    .attr("width",w)
+                    .attr("height",h)
+        }
+
+        //显示标题
+        function showTitle(){
+           container.append("text")
+                    .attr("x", width * 0.7 - 80)
+                    .attr("y", 80)
+                    .attr("text-anchor", "middle")
+                    .attr("font-family", "Helvetica")
+                    .attr("font-size", "24px")
+                    .attr("font-weight", "normal")
+                    .attr("fill", "black")
+                    .text(gkData._title);
+        }
+
+        /**
+         * 根据车辆数量排序
+         */
+        function sortByTotal(year){
+          var oldData=gkData.datas;
+            var newData =new Array(); 
+            var j=0;
+            oldData.forEach(function(d,i){
+                 if(d.index==year)
+                 {
+                   newData[j]=d;
+                   j++;
+                 } 
+            });
+            var data = newData.sort(function(d1,d2){
+                return d2.total - d1.total;
+            });
+
+            //创建过度颜色,注意上一步的排序是从大到小，那么颜色应该是从深到浅
+            var rateColors = d3.scale.linear()
+                    .domain([1, 340])
+                    .range([d3.rgb(4, 81, 97),d3.rgb(255, 255, 255)]);
+    //                .range([d3.rgb(30, 40, 160),d3.rgb(180, 160, 255)]);
+             data.forEach(function(d,i){
+                d.sort = i+1;
+                d3.select("#"+ d.id)
+                        .transition()
+                        .duration(duration)
+                        .delay(10*i)
+                        .attr("fill", rateColors((i+1)*10));
+            });
+             $("#titleName").text("Vehicle Statics in Year " + year);
+            buildTip(data);
+            showOnTable(data);
+        }
+
+        //在table中显示数据
+        function showOnTable(data){
+            var t = d3.select("#tbody");
+            t.selectAll("tr").remove();
+            t.selectAll("tr")
+                    .data(data)
+                    .enter()
+                    .insert("tr")
+                    .html(function(d,i){
+                        return  "<td>"+(i+1)+"</td>" +
+                                "<td>"+ d.province+"</td>" +
+                                "<td>"+ d.total+"</td>";
+                               
+                    })
+                    .style("opacity", 0)
+                    .transition()
+                    .duration(100)
+                    .delay(function(d,i){return 10*i;})
+                    .style("opacity", 1)
+            ;
+        }
+         
+        function buildTip(data){
+            var t = "#tooltip";
+            chinaG.selectAll("path")
+                    .data(data, function(d){
+                        return d.id;
+                    })
+                    .on("mouseover",function(d){
+                        
+                        d3.select(t)
+                                .style("left", d3.event.x + "px")
+                                .style("top", d3.event.y + "px")
+                                .classed("hidden", false)
+                                .selectAll(".dataHolder")[0]
+                                .forEach(function(h){
+                                    h = d3.select(h);
+                                    h.html(d[h.attr('name')]);
+                                });
+                        d3.select(this)
+                                .attr("opacity", 0.8);
+                    })
+                    .on("mouseout",function(){
+                        d3.select(t).classed("hidden", true);
+                        d3.select(this)
+                                .attr("opacity", 1);
+                    })
+                    .on("click",function(d){
+                        refreshLinarGraph(d.id, d.province);
+                    })
+            ;
+        }
+         
+        var gkData;
+        window.onload = function(){
+           initData(2000);
+        }
+        //初始化数据
+        function initData(year)
+        {
+           colors = d3.scale.category20b();
+             createSVG("container",width,height);
+             container = d3.select("#container");
+             queue()
+                     .defer(d3.json, "/carsail/data/china.json")
+                     .defer(d3.json, "/carsail/data/200-2014CLSL_eng.json")
+                     .await(function(error,china,gks){
+                         if(error){
+                             alert("加载数据出错！"+error);
+                             return ;
+                         }
+                         drawChina(china);
+                         console.log(gks);
+                         gkData = gks;
+                         if(gkData){
+                             showTitle();
+                             sortByTotal(2000);
+                         }
+                     });
+        }
+  </script>
+<script src="js/impress.js"></script>
+<script>
+var impress = impress();
+impress.init();
+
+var timer;
+function autoPlay(){
+  timer = setInterval(function(){
+    impress.next();
+    var year = $(".timeList_item.active").data("year");
+    sortByTotal(year);
+  }, 3000);
+}
+
+function stopAutoPlay(){
+  if(timer)clearInterval(timer);
+}
+</script>
+</html>
